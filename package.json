@@ -1,0 +1,9 @@
+{
+  "name": "mz_setup",
+  "version": "1.1.0",
+  "description": "RPG maker mz plugin project setup tool",
+  "license": "ISC",
+  "author": "name6666666",
+  "type": "commonjs",
+  "bin": "generate.js"
+}
